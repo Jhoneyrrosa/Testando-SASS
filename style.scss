@@ -1,0 +1,27 @@
+$cor-primaria: blue;
+$cor-segundaria: brown;
+$cor-de-titulo: violet;
+
+body {
+    background-color: darkkhaki;
+}
+
+header{
+    background-color: $cor-de-titulo;
+}
+
+h1 {
+    color: $cor-primaria;
+}
+
+main p {
+    background-color: $cor-segundaria;
+}
+
+button {
+    background-color: green;
+}
+
+footer{
+    background-color: $cor-primaria;
+}
